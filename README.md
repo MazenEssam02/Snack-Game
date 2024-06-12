@@ -1,3 +1,3 @@
 # Snake-Game
-<img src="./screenshots/playing.png">
-<img src="./screenshots/gameover.png">
+<img src="./Screenshots/Playing.png">
+<img src="./Screenshots/Game over.png">
