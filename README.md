@@ -11,3 +11,6 @@ A classic snake game developed Using Python Turtle module.
   
 ## Setup
 - Download EXE file and Start Playing.
+
+## Contribution
+Contributions to Snake-Game are welcome! If you find any bugs, have feature requests, or want to contribute to the project, feel free to open an issue or submit a pull request.
