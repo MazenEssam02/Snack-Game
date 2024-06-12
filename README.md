@@ -1,2 +1,2 @@
 # Snake-Game
-<img src="./Screenshots/Game.jpg">
+<img src="./Screenshots/Snake Game.jpg">
