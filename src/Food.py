@@ -12,4 +12,4 @@ class Food(Turtle):
         self.color('red')
         self.speed('fastest')
         self.goto(random.randint(-270,270),random.randint(-270,270))
-        
+        #ddddd
